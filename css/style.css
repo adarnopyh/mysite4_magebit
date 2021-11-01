@@ -148,14 +148,17 @@ p{
         /* outline: 1px solid blue; */
 
 }
-/* .input-element {
+/* .input-validation{
         width: 4px;
         height: 60px;
         background-color: #4066A5;
         /* margin-left: 0 1.25em; */
         /* outline: 2px solid red; */
 
-
+.input-validation{
+        position: absolute;
+        margin-top: -1.2em;
+}
 
 input {
         padding: 0 15px;
